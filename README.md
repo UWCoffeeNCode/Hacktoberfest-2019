@@ -1,6 +1,6 @@
 # Hacktoberfest-2019
 
-![CNC + Hacktoberfest logo](./images/cnc-hacktoberfest-logo.png)
+![CNC + Hacktoberfest logo](./images/cnc-hacktoberfest-logo.jpg)
 
 Welcome to the the Coffee 'N Code 2019 [Hacktoberfest](https://hacktoberfest.digitalocean.com) site!
 

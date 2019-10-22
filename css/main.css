@@ -1,12 +1,11 @@
 body {
   background-color: #AEBDCB;
   font-family: 'Reenie Beanie', cursive;
-
 }
 
 h1 {
   font-size: 45px;
-  font-family: Quantico;
+  font-family: 'Reenie Beanie', cursive;
   text-align: center;
   color: #FFFFFF;
 }
@@ -14,5 +13,5 @@ h1 {
 p {
   font-size: 30px;
   text-align: center;
-  font-family: 'Comic Sans MS', 'sans-serif';
+  font-family: Quantico;
 }

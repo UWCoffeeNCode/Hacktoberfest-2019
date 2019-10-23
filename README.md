@@ -12,3 +12,7 @@ See it live: https://uwcoffeencode.github.io/Hacktoberfest-2019/
 [Here is last year's site if you are interested!](https://github.com/UWCoffeeNCode/UWCoffeeNCodeCollabSite)
 
 Four contributions and you can get a t-shirt from Hacktoberfest -- just be sure to register on [their site](https://hacktoberfest.digitalocean.com/) first!
+
+
+## Guide
+[Click here to learn about GitHub](https://docs.google.com/presentation/d/1m8E4q7J0BsSNmUx1RVPjhHEvQ640L0WHAhjbWTaZW0U/edit?usp=sharing)

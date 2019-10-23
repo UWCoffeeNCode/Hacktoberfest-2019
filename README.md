@@ -13,6 +13,4 @@ See it live: https://uwcoffeencode.github.io/Hacktoberfest-2019/
 
 Four contributions and you can get a t-shirt from Hacktoberfest -- just be sure to register on [their site](https://hacktoberfest.digitalocean.com/) first!
 
-
-## Guide
-[Click here to learn about GitHub](https://docs.google.com/presentation/d/1m8E4q7J0BsSNmUx1RVPjhHEvQ640L0WHAhjbWTaZW0U/edit?usp=sharing)
+[Guide for Today's Project](https://docs.google.com/presentation/d/1m8E4q7J0BsSNmUx1RVPjhHEvQ640L0WHAhjbWTaZW0U/edit?usp=sharing)

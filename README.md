@@ -9,8 +9,6 @@ See it live: https://uwcoffeencode.github.io/Hacktoberfest-2019/
 
 ## Links
 
-To learn how to contribute to the site, go [here](https://github.com/UWCoffeeNCode/GitHub-Workshop)
+[Here is last year's site if you are interested!](https://github.com/UWCoffeeNCode/UWCoffeeNCodeCollabSite)
 
-To see last year's site, go [here](https://github.com/UWCoffeeNCode/UWCoffeeNCodeCollabSite)
-
-Four (high-quality) contributions and you can get a t-shirt from Hacktoberfest -- just be sure to register on _their_ site first!
+Five contributions and you can get a t-shirt from Hacktoberfest -- just be sure to register on _their_ site first![Hacktoberfest Site](https://hacktoberfest.digitalocean.com/)

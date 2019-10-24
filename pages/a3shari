@@ -13,7 +13,7 @@
     <body>
         <h1>Jane Doe</h1>
         <img src="../images/Profile-a3shari.jpeg" width=500/>
-        <p>Add an introduction of yourself!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis efficitur condimentum leo, eu dignissim elit dictum eget. Proin at vestibulum nisi. In tristique eu neque ac venenatis. In hac habitasse platea dictumst. Vestibulum pretium facilisis rutrum. Morbi dapibus tempor arcu sed commodo. In hac habitasse platea dictumst. Aenean at finibus quam. Nulla condimentum tempor aliquam. Praesent fringilla ullamcorper molestie. Mauris tristique consequat ultrices. Integer ultricies metus at urna fermentum ultricies. Aliquam bibendum sodales neque eget porttitor.</p>
         <p>
             <a href="../index.html">
                 Click here to return to the main site!

@@ -1,5 +1,5 @@
 body {
-    background-color: #AEBDCB;
+    background-color: #FFF;
     font-family: 'Reenie Beanie', cursive;
   }
   
@@ -7,13 +7,13 @@ body {
     font-size: 45px;
     font-family: "Comic Sans MS", cursive, sans-serif;
     text-align: center;
-    color: #FFFFFF;
+    color: #000000;
   }
   
   p {
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
-    font-family: Quantico;
+    font-family: "Comic Sans MS";
   }
   
   img {

@@ -6,20 +6,18 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="../css/main.css">
         <link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet">
     </head>
 
     <body>
-        <h1>UW COFFEE 'N CODE MEMBERS SITE</h1>
-        <img src="./images/cnc-hacktoberfest-logo.jpg" width=500/>
-        <p>This is a community-created site by the Fall 2019 members of the UW Coffee 'N Code club.</p>
+        <h1>Anzhou Hou</h1>
+        <img src="../images/IMG_6231.jpg" width=500/>
+        <p>CS struggler</p>
         <p>
-            <a href="https://github.com/UWCoffeeNCode/Hacktoberfest-2019">
-                Go here to contribute to this <em>quality</em> site!
+            <a href="../index.html">
+                Click here to return to the main site!
             </a>
         </p>
-        <p>Our Fall 2019 Hacktoberfest Participants:</p>
-        <p><a href="./pages/sample.html">Sample Person</a></p>
     </body>
 </html>

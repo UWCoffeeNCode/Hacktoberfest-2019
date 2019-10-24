@@ -1,0 +1,24 @@
+
+body {
+    background-color: white;
+    font-family: 'Comic Sans MS';
+  }
+  
+  h1 {
+    font-size: 45px;
+    text-align: center;
+    color: black;
+  }
+  
+  p {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  

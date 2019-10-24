@@ -11,9 +11,9 @@
     </head>
 
     <body>
-        <h1>Your Name</h1>
-        <img src="../images/blank-profile-pic.png" width=500/>
-        <p>Add an introduction of yourself</p>
+        <h1>Yuxiao Zhao</h1>
+        <img src="../images/profile pic.png" width=500/>
+        <p>I'm a fun guy :)</p>
         <p>
             <a href="../index.html">
                 Click here to return to the main site!

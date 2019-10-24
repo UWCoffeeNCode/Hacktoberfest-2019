@@ -1,0 +1,24 @@
+body {
+    background-color: #FFF;
+    font-family: 'Reenie Beanie', cursive;
+  }
+  
+  h1 {
+    font-size: 45px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    color: #000000;
+  }
+  
+  p {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
